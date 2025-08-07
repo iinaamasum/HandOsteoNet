@@ -1,4 +1,4 @@
-# HandOsteoNet: HandOsteoNet: Segmentation-Attention Guided XAI for Precise Bone Age Prediction
+# HandOsteoNet - Advanced Bone Age Assessment System
 
 **Copyright (c) 2025 Qatar University**  
 **Lead by Dr. Amith Khandakar**
